@@ -1,0 +1,18 @@
+ fun   simpcalc(a:Double,b:Double):Unit{
+        var sum:Double;
+        var div:Double;
+        var sub:Double;
+        var mul:Double;
+        sum=a+b;
+        div=a/b;
+        sub=a-b;
+        mul=a*b;
+        println(sum)
+        println(div)
+        println(sub)
+        println(mul)
+
+
+
+
+    }
